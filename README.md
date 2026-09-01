@@ -64,7 +64,7 @@ The notebooks contain the experimental code, data loading, model training, and f
 The code was developed and tested with **Python 3.12**.
 
 ```bash
-git clone https://github.com/AzimovSherkhon/Adaptive-NVAR.git
+git clone https://github.com/AzimovSherkhon/Adaptive-Nonlinear-Vector-Autoregression-Robust-Forecasting-for-Noisy-Chaotic-Time-Series.git
 cd Adaptive-NVAR
 
 conda create -n adaptive-nvar python=3.12
