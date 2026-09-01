@@ -1,9 +1,6 @@
 # Adaptive Nonlinear Vector Autoregression (Adaptive NVAR)
 
 <p align="center"><a href="https://arxiv.org/abs/2507.08738"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
-
-
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv\&logoColor=white)](https://arxiv.org/abs/2507.08738)
 [![DOI](https://arxiv.org/abs/2507.08738v2)]
 
 This repository contains the code and datasets required to reproduce the experiments reported in:
