@@ -4,7 +4,7 @@
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv\&logoColor=white)](https://arxiv.org/abs/2507.08738)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17773046.svg)](https://doi.org/10.5281/zenodo.17773046)
+[![DOI](https://arxiv.org/abs/2507.08738v2)]
 
 This repository contains the code and datasets required to reproduce the experiments reported in:
 
