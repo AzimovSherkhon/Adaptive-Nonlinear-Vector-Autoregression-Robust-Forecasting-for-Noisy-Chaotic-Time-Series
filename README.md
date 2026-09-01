@@ -1,7 +1,6 @@
 # Adaptive Nonlinear Vector Autoregression (Adaptive NVAR)
 
 <p align="center"><a href="https://arxiv.org/abs/2507.08738"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
-[![DOI](https://arxiv.org/abs/2507.08738v2)]
 
 This repository contains the code and datasets required to reproduce the experiments reported in:
 
@@ -149,7 +148,7 @@ The repository is intended to provide the computational materials needed to repr
 
 If you use this code or Adaptive NVAR in your research, please cite:
 
-**Azimov, S. et al.** *Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series.*
+**Azimov, S. et al.** *Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series.* [![DOI](https://arxiv.org/abs/2507.08738v2)]
 
 ## License
 
